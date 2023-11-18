@@ -4,9 +4,9 @@
       "PrimaryWeapon": "weapon_m4a1",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": true,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 3,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": -1
     },
     {
@@ -14,9 +14,9 @@
       "PrimaryWeapon": "weapon_m4a1_silencer",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": true,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 3,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": -1
     },
     {
@@ -24,9 +24,9 @@
       "PrimaryWeapon": "weapon_famas",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": true,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 3,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": -1
     },
     {
@@ -34,9 +34,9 @@
       "PrimaryWeapon": "weapon_aug",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": true,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 3,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": -1
     },
     {
@@ -44,9 +44,9 @@
       "PrimaryWeapon": "weapon_ak47",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": false,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 2,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": -1
     },
     {
@@ -54,9 +54,9 @@
       "PrimaryWeapon": "weapon_galilar",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": false,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 2,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": -1
     },
     {
@@ -64,9 +64,9 @@
       "PrimaryWeapon": "weapon_sg556",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": false,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 2,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": -1
     },
     {
@@ -74,9 +74,9 @@
       "PrimaryWeapon": "weapon_p90",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": true,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 0,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": 2
     },
     {
@@ -84,9 +84,9 @@
       "PrimaryWeapon": "weapon_awp",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": true,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 3,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": 1
     },
     {
@@ -94,9 +94,9 @@
       "PrimaryWeapon": "weapon_awp",
       "SecondaryWeapon": "weapon_deagle",
       "DefuseKit": false,
-      "Kevlar": 2,
+      "Kevlar": "KevlarHelmet",
       "Team": 2,
-      "RoundType": -1,
+      "RoundType": "Undefined",
       "KitLimit": 1
     }
   ]
