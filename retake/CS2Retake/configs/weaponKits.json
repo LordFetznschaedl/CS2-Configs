@@ -1,0 +1,102 @@
+[
+    {
+      "KitName": "M4A4",
+      "PrimaryWeapon": "weapon_m4a1",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": true,
+      "Kevlar": 2,
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "M4A1-s",
+      "PrimaryWeapon": "weapon_m4a1_silencer",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": true,
+      "Kevlar": 2,
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "Famas",
+      "PrimaryWeapon": "weapon_famas",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": true,
+      "Kevlar": 2,
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "AUG",
+      "PrimaryWeapon": "weapon_aug",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": true,
+      "Kevlar": 2,
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "AK-47",
+      "PrimaryWeapon": "weapon_ak47",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": false,
+      "Kevlar": 2,
+      "Team": 2,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "Galil",
+      "PrimaryWeapon": "weapon_galilar",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": false,
+      "Kevlar": 2,
+      "Team": 2,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "SG-553",
+      "PrimaryWeapon": "weapon_sg556",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": false,
+      "Kevlar": 2,
+      "Team": 2,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "Pro90",
+      "PrimaryWeapon": "weapon_p90",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": true,
+      "Kevlar": 2,
+      "Team": 0,
+      "RoundType": -1,
+      "KitLimit": 2
+    },
+    {
+      "KitName": "CT-AWP",
+      "PrimaryWeapon": "weapon_awp",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": true,
+      "Kevlar": 2,
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": 1
+    },
+    {
+      "KitName": "T-AWP",
+      "PrimaryWeapon": "weapon_awp",
+      "SecondaryWeapon": "weapon_deagle",
+      "DefuseKit": false,
+      "Kevlar": 2,
+      "Team": 2,
+      "RoundType": -1,
+      "KitLimit": 1
+    }
+  ]

@@ -1,0 +1,135 @@
+[
+    {
+      "KitName": "NoNades",
+      "GrenadeList": [],
+      "Team": 0,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "OnlySmoke",
+      "GrenadeList": [
+        0
+      ],
+      "Team": 0,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "OnlyFlash",
+      "GrenadeList": [
+        1
+      ],
+      "Team": 0,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "DoubleFlash",
+      "GrenadeList": [
+        1,
+        1
+      ],
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "OnlyHE",
+      "GrenadeList": [
+        2
+      ],
+      "Team": 0,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "SmokeFlash",
+      "GrenadeList": [
+        0,
+        1
+      ],
+      "Team": 0,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "OnlyIncendiary",
+      "GrenadeList": [
+        4
+      ],
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "IncendiaryFlash",
+      "GrenadeList": [
+        4,
+        1
+      ],
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "MolotovFlash",
+      "GrenadeList": [
+        3,
+        1
+      ],
+      "Team": 2,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "SmokeFlashIncendiary",
+      "GrenadeList": [
+        0,
+        1,
+        4
+      ],
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "OnlyFlashCT",
+      "GrenadeList": [
+        1
+      ],
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "SmokeFlash",
+      "GrenadeList": [
+        1,
+        0
+      ],
+      "Team": 2,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "FlashHE",
+      "GrenadeList": [
+        1,
+        2
+      ],
+      "Team": 0,
+      "RoundType": -1,
+      "KitLimit": -1
+    },
+    {
+      "KitName": "SmokeHE",
+      "GrenadeList": [
+        0,
+        2
+      ],
+      "Team": 3,
+      "RoundType": -1,
+      "KitLimit": -1
+    }
+  ]
