@@ -83,7 +83,7 @@
       "KitName": "CT-AWP",
       "PrimaryWeapon": "weapon_awp",
       "SecondaryWeapon": "weapon_deagle",
-      "DefuseKit": true,
+      "DefuseKit": false,
       "Kevlar": "KevlarHelmet",
       "Team": 3,
       "RoundType": "Undefined",
