@@ -9,7 +9,7 @@
     {
       "KitName": "OnlySmoke",
       "GrenadeList": [
-        0
+        "Smoke"
       ],
       "Team": 0,
       "RoundType": -1,
@@ -18,7 +18,7 @@
     {
       "KitName": "OnlyFlash",
       "GrenadeList": [
-        1
+        "Flashbang"
       ],
       "Team": 0,
       "RoundType": -1,
@@ -27,8 +27,8 @@
     {
       "KitName": "DoubleFlash",
       "GrenadeList": [
-        1,
-        1
+        "Flashbang",
+        "Flashbang"
       ],
       "Team": 3,
       "RoundType": -1,
@@ -37,7 +37,7 @@
     {
       "KitName": "OnlyHE",
       "GrenadeList": [
-        2
+        "HighExplosive"
       ],
       "Team": 0,
       "RoundType": -1,
@@ -46,8 +46,8 @@
     {
       "KitName": "SmokeFlash",
       "GrenadeList": [
-        0,
-        1
+        "Smoke",
+        "Flashbang"
       ],
       "Team": 0,
       "RoundType": -1,
@@ -56,17 +56,26 @@
     {
       "KitName": "OnlyIncendiary",
       "GrenadeList": [
-        4
+        "Incendiary"
       ],
       "Team": 3,
       "RoundType": -1,
       "KitLimit": -1
     },
     {
+        "KitName": "OnlyMolotov",
+        "GrenadeList": [
+          "Molotov"
+        ],
+        "Team": 2,
+        "RoundType": -1,
+        "KitLimit": -1
+    },
+    {
       "KitName": "IncendiaryFlash",
       "GrenadeList": [
-        4,
-        1
+        "Incendiary",
+        "Flashbang"
       ],
       "Team": 3,
       "RoundType": -1,
@@ -75,8 +84,8 @@
     {
       "KitName": "MolotovFlash",
       "GrenadeList": [
-        3,
-        1
+        "Molotov",
+        "Flashbang"
       ],
       "Team": 2,
       "RoundType": -1,
@@ -85,9 +94,9 @@
     {
       "KitName": "SmokeFlashIncendiary",
       "GrenadeList": [
-        0,
-        1,
-        4
+        "Smoke",
+        "Flashbang",
+        "Incendiary"
       ],
       "Team": 3,
       "RoundType": -1,
@@ -96,7 +105,7 @@
     {
       "KitName": "OnlyFlashCT",
       "GrenadeList": [
-        1
+        "Flashbang"
       ],
       "Team": 3,
       "RoundType": -1,
@@ -105,8 +114,8 @@
     {
       "KitName": "SmokeFlash",
       "GrenadeList": [
-        1,
-        0
+        "Flashbang",
+        "Smoke"
       ],
       "Team": 2,
       "RoundType": -1,
@@ -115,8 +124,8 @@
     {
       "KitName": "FlashHE",
       "GrenadeList": [
-        1,
-        2
+        "Flashbang",
+        "HighExplosive"
       ],
       "Team": 0,
       "RoundType": -1,
@@ -125,8 +134,8 @@
     {
       "KitName": "SmokeHE",
       "GrenadeList": [
-        0,
-        2
+        "Smoke",
+        "HighExplosive"
       ],
       "Team": 3,
       "RoundType": -1,
